@@ -1,2 +1,4 @@
 GEt the user data...
 process the data
+
+cretae and avatar for user
